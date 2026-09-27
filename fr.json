@@ -1157,5 +1157,25 @@
       "dismiss": "Ne pas supprimer",
       "supportSubject": "Suppression du compte GymNotes"
     }
-  }
+  },
+  "onboarding.preset.title": "Choisis un programme",
+  "onboarding.preset.subtitle": "Un tap et ta première séance est prête. Tu peux changer de programme à tout moment dans Programmes.",
+  "onboarding.preset.fullBody": "Full Body 3×/semaine",
+  "onboarding.preset.ppl": "Push-Pull-Legs",
+  "onboarding.preset.upperLower": "Upper-Lower",
+  "onboarding.preset.forYourLevel": "Adapté à ton niveau",
+  "onboarding.preset.choose": "Choisir",
+  "onboarding.preset.loadError": "Impossible de charger les programmes. Vérifie ta connexion et réessaie.",
+  "onboarding.preset.error.title": "Impossible de créer le programme",
+  "onboarding.preset.error.body": "Vérifie ta connexion et réessaie.",
+  "onboarding.firstWorkout.title": "Ta première séance",
+  "onboarding.firstWorkout.nextThisWeek": "Cette semaine : {{list}}",
+  "onboarding.firstWorkout.next": "Ensuite : {{list}}",
+  "onboarding.firstWorkout.dayOf": "Jour 1 sur {{total}}",
+  "onboarding.firstWorkout.later": "Plus tard",
+  "progress.firstChart": "Ton premier graphique",
+  "onboarding.preset.daysPerWeek": "{{count}} jour/semaine",
+  "onboarding.preset.daysPerWeek_plural": "{{count}} jours/semaine",
+  "pro.progressMoment.caption": "Tes progrès · {{count}} séance",
+  "pro.progressMoment.caption_plural": "Tes progrès · {{count}} séances"
 }

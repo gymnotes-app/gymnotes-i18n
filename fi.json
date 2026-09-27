@@ -1157,5 +1157,25 @@
       "dismiss": "Älä poista",
       "supportSubject": "GymNotes-tilin poisto"
     }
-  }
+  },
+  "onboarding.preset.title": "Valitse ohjelma",
+  "onboarding.preset.subtitle": "Yksi napautus, ja ensimmäinen treenisi on valmis. Voit vaihtaa ohjelmaa milloin tahansa Ohjelmat-välilehdellä.",
+  "onboarding.preset.fullBody": "Full Body 3×/vko",
+  "onboarding.preset.ppl": "Push-Pull-Legs",
+  "onboarding.preset.upperLower": "Upper-Lower",
+  "onboarding.preset.forYourLevel": "Sopii tasollesi",
+  "onboarding.preset.choose": "Valitse",
+  "onboarding.preset.loadError": "Ohjelmia ei voitu ladata. Tarkista yhteys ja yritä uudelleen.",
+  "onboarding.preset.error.title": "Ohjelmaa ei voitu luoda",
+  "onboarding.preset.error.body": "Tarkista yhteys ja yritä uudelleen.",
+  "onboarding.firstWorkout.title": "Ensimmäinen treenisi",
+  "onboarding.firstWorkout.nextThisWeek": "Tällä viikolla vielä: {{list}}",
+  "onboarding.firstWorkout.next": "Seuraavaksi: {{list}}",
+  "onboarding.firstWorkout.dayOf": "Päivä 1/{{total}}",
+  "onboarding.firstWorkout.later": "Myöhemmin",
+  "progress.firstChart": "Ensimmäinen kaaviosi",
+  "onboarding.preset.daysPerWeek": "{{count}} päivä/vko",
+  "onboarding.preset.daysPerWeek_plural": "{{count}} päivää/vko",
+  "pro.progressMoment.caption": "Edistymisesi · {{count}} treeni",
+  "pro.progressMoment.caption_plural": "Edistymisesi · {{count}} treeniä"
 }

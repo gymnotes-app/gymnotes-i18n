@@ -1157,5 +1157,25 @@
       "dismiss": "Don't delete",
       "supportSubject": "GymNotes account deletion"
     }
-  }
+  },
+  "onboarding.preset.title": "Choose a plan",
+  "onboarding.preset.subtitle": "One tap and your first workout is ready. You can change the plan anytime in Programs.",
+  "onboarding.preset.fullBody": "Full Body 3×/week",
+  "onboarding.preset.ppl": "Push-Pull-Legs",
+  "onboarding.preset.upperLower": "Upper-Lower",
+  "onboarding.preset.forYourLevel": "Matches your level",
+  "onboarding.preset.choose": "Choose",
+  "onboarding.preset.loadError": "Couldn't load the plans. Check your connection and try again.",
+  "onboarding.preset.error.title": "Couldn't create the plan",
+  "onboarding.preset.error.body": "Check your connection and try again.",
+  "onboarding.firstWorkout.title": "Your first workout",
+  "onboarding.firstWorkout.nextThisWeek": "Later this week: {{list}}",
+  "onboarding.firstWorkout.next": "Up next: {{list}}",
+  "onboarding.firstWorkout.dayOf": "Day 1 of {{total}}",
+  "onboarding.firstWorkout.later": "Later",
+  "progress.firstChart": "Your first chart",
+  "onboarding.preset.daysPerWeek": "{{count}} day/week",
+  "onboarding.preset.daysPerWeek_plural": "{{count}} days/week",
+  "pro.progressMoment.caption": "Your progress · {{count}} workout",
+  "pro.progressMoment.caption_plural": "Your progress · {{count}} workouts"
 }

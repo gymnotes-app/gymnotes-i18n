@@ -1157,5 +1157,25 @@
       "dismiss": "Não apagar",
       "supportSubject": "Exclusão da conta GymNotes"
     }
-  }
+  },
+  "onboarding.preset.title": "Escolhe um plano",
+  "onboarding.preset.subtitle": "Um toque e o teu primeiro treino fica pronto. Podes mudar de plano quando quiseres em Programas.",
+  "onboarding.preset.fullBody": "Full Body 3×/semana",
+  "onboarding.preset.ppl": "Push-Pull-Legs",
+  "onboarding.preset.upperLower": "Upper-Lower",
+  "onboarding.preset.forYourLevel": "Para o teu nível",
+  "onboarding.preset.choose": "Escolher",
+  "onboarding.preset.loadError": "Não foi possível carregar os planos. Verifica a ligação e tenta novamente.",
+  "onboarding.preset.error.title": "Não foi possível criar o plano",
+  "onboarding.preset.error.body": "Verifica a ligação e tenta novamente.",
+  "onboarding.firstWorkout.title": "O teu primeiro treino",
+  "onboarding.firstWorkout.nextThisWeek": "Ainda esta semana: {{list}}",
+  "onboarding.firstWorkout.next": "A seguir: {{list}}",
+  "onboarding.firstWorkout.dayOf": "Dia 1 de {{total}}",
+  "onboarding.firstWorkout.later": "Mais tarde",
+  "progress.firstChart": "O teu primeiro gráfico",
+  "onboarding.preset.daysPerWeek": "{{count}} dia/semana",
+  "onboarding.preset.daysPerWeek_plural": "{{count}} dias/semana",
+  "pro.progressMoment.caption": "O teu progresso · {{count}} treino",
+  "pro.progressMoment.caption_plural": "O teu progresso · {{count}} treinos"
 }

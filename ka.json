@@ -1166,5 +1166,25 @@
       "dismiss": "არ წაშალო",
       "supportSubject": "GymNotes ანგარიშის წაშლა"
     }
-  }
+  },
+  "onboarding.preset.title": "აირჩიე გეგმა",
+  "onboarding.preset.subtitle": "ერთი შეხება — და პირველი ვარჯიში მზადაა. გეგმის შეცვლა ნებისმიერ დროს შეგიძლია „პროგრამებში“.",
+  "onboarding.preset.fullBody": "Full Body 3×/კვირაში",
+  "onboarding.preset.ppl": "Push-Pull-Legs",
+  "onboarding.preset.upperLower": "Upper-Lower",
+  "onboarding.preset.forYourLevel": "შენს დონეზე",
+  "onboarding.preset.choose": "არჩევა",
+  "onboarding.preset.loadError": "გეგმების ჩატვირთვა ვერ მოხერხდა. შეამოწმე კავშირი და სცადე ხელახლა.",
+  "onboarding.preset.error.title": "გეგმის შექმნა ვერ მოხერხდა",
+  "onboarding.preset.error.body": "შეამოწმე კავშირი და სცადე ხელახლა.",
+  "onboarding.firstWorkout.title": "შენი პირველი ვარჯიში",
+  "onboarding.firstWorkout.nextThisWeek": "ამ კვირაში: {{list}}",
+  "onboarding.firstWorkout.next": "შემდეგი: {{list}}",
+  "onboarding.firstWorkout.dayOf": "დღე 1 / {{total}}",
+  "onboarding.firstWorkout.later": "მოგვიანებით",
+  "progress.firstChart": "შენი პირველი გრაფიკი",
+  "onboarding.preset.daysPerWeek": "{{count}} დღე/კვირა",
+  "onboarding.preset.daysPerWeek_plural": "{{count}} დღე/კვირა",
+  "pro.progressMoment.caption": "შენი პროგრესი · {{count}} ვარჯიში",
+  "pro.progressMoment.caption_plural": "შენი პროგრესი · {{count}} ვარჯიში"
 }

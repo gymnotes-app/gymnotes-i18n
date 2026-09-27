@@ -1193,5 +1193,29 @@
       "dismiss": "Не видаляти",
       "supportSubject": "Видалення акаунта GymNotes"
     }
-  }
+  },
+  "onboarding.preset.title": "Обери план",
+  "onboarding.preset.subtitle": "Один тап — і перше тренування готове. Змінити план можна будь-коли в «Програмах».",
+  "onboarding.preset.fullBody": "Full Body 3×/тиж",
+  "onboarding.preset.ppl": "Push-Pull-Legs",
+  "onboarding.preset.upperLower": "Upper-Lower",
+  "onboarding.preset.forYourLevel": "Під твій рівень",
+  "onboarding.preset.choose": "Обрати",
+  "onboarding.preset.loadError": "Не вдалося завантажити плани. Перевір з'єднання і спробуй ще раз.",
+  "onboarding.preset.error.title": "Не вдалося створити план",
+  "onboarding.preset.error.body": "Перевір з'єднання і спробуй ще раз.",
+  "onboarding.firstWorkout.title": "Твоє перше тренування",
+  "onboarding.firstWorkout.nextThisWeek": "Далі цього тижня: {{list}}",
+  "onboarding.firstWorkout.next": "Далі: {{list}}",
+  "onboarding.firstWorkout.dayOf": "День 1 з {{total}}",
+  "onboarding.firstWorkout.later": "Пізніше",
+  "progress.firstChart": "Твій перший графік",
+  "onboarding.preset.daysPerWeek": "{{count}} день/тиж",
+  "onboarding.preset.daysPerWeek_0": "{{count}} день/тиж",
+  "onboarding.preset.daysPerWeek_1": "{{count}} дні/тиж",
+  "onboarding.preset.daysPerWeek_2": "{{count}} днів/тиж",
+  "pro.progressMoment.caption": "Твій прогрес · {{count}} тренування",
+  "pro.progressMoment.caption_0": "Твій прогрес · {{count}} тренування",
+  "pro.progressMoment.caption_1": "Твій прогрес · {{count}} тренування",
+  "pro.progressMoment.caption_2": "Твій прогрес · {{count}} тренувань"
 }

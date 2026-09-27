@@ -1157,5 +1157,25 @@
       "dismiss": "Nicht löschen",
       "supportSubject": "Löschung des GymNotes-Kontos"
     }
-  }
+  },
+  "onboarding.preset.title": "Wähle einen Plan",
+  "onboarding.preset.subtitle": "Ein Tipp und dein erstes Training steht. Den Plan kannst du jederzeit unter „Programme“ ändern.",
+  "onboarding.preset.fullBody": "Full Body 3×/Woche",
+  "onboarding.preset.ppl": "Push-Pull-Legs",
+  "onboarding.preset.upperLower": "Upper-Lower",
+  "onboarding.preset.forYourLevel": "Passt zu deinem Level",
+  "onboarding.preset.choose": "Wählen",
+  "onboarding.preset.loadError": "Die Pläne konnten nicht geladen werden. Prüfe deine Verbindung und versuch es erneut.",
+  "onboarding.preset.error.title": "Plan konnte nicht erstellt werden",
+  "onboarding.preset.error.body": "Prüfe deine Verbindung und versuch es erneut.",
+  "onboarding.firstWorkout.title": "Dein erstes Training",
+  "onboarding.firstWorkout.nextThisWeek": "Diese Woche noch: {{list}}",
+  "onboarding.firstWorkout.next": "Als Nächstes: {{list}}",
+  "onboarding.firstWorkout.dayOf": "Tag 1 von {{total}}",
+  "onboarding.firstWorkout.later": "Später",
+  "progress.firstChart": "Dein erstes Diagramm",
+  "onboarding.preset.daysPerWeek": "{{count}} Tag/Woche",
+  "onboarding.preset.daysPerWeek_plural": "{{count}} Tage/Woche",
+  "pro.progressMoment.caption": "Dein Fortschritt · {{count}} Training",
+  "pro.progressMoment.caption_plural": "Dein Fortschritt · {{count}} Trainings"
 }
