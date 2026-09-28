@@ -1195,6 +1195,8 @@
   "coachLog.import.hint": "Skipped entries stay with your coach. You can add them later on the Coach screen.",
   "coachLog.import.error.title": "Couldn’t add them",
   "coachLog.import.error.body": "Nothing was changed. Check your connection and try again.",
+  "coachLog.import.error.partial": "Added {{summary}}. {{count}} entry couldn’t be added — try again.",
+  "coachLog.import.error.partial_plural": "Added {{summary}}. {{count}} entries couldn’t be added — try again.",
   "coachLog.consent.added": "Added {{summary}}",
   "coachLog.consent.title": "Allow your coach to log workouts and measurements to your profile?",
   "coachLog.consent.body": "Every entry your coach adds is marked “logged by coach” and you can delete it. Change this anytime in your coach settings.",
